@@ -1,0 +1,26 @@
+{
+	"pages": [ 
+
+		{
+			"path": "pages/index/index",
+		},
+		{
+			"path": "pages/b/a",
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "1",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#FFFFFF"
+	},
+    "condition": {
+        "current": 0,
+        "list": [{
+                "name": "index",
+                "path": "/pages/index/index",
+                "query": ""
+            }
+        ]
+	}
+}

@@ -1,0 +1,44 @@
+/* 颜色变量 */
+/* 行为相关颜色 */
+$uni-color-primary: #2EA1FF;
+$uni-color-success: #03C6CD;
+$uni-color-warning: #FFC53D;
+$uni-color-error: #FF8172;
+/* 文字基本颜色 */
+$uni-text-color: #202428; // 基本色
+$uni-text-color-inverse: #fff; // 反色
+$uni-text-color-grey: #8691A3; // 辅助灰色，如加载更多的提示信息
+$uni-text-color-placeholder: #646A73;
+$uni-text-color-disable: #C1C4C9;
+/* 背景颜色 */
+$uni-bg-color: #FBFBFD;
+$uni-bg-color-grey: #F7F9FA;
+$uni-bg-color-hover: #f1f1f1; // 点击状态颜色
+$uni-bg-color-mask: rgba(0, 0, 0, 0.4); // 遮罩颜色
+/* 边框颜色 */
+$uni-border-color: #DEE0E3;
+/* 尺寸变量 */
+/* 文字尺寸 */
+$uni-font-size-sm: 22rpx;
+$uni-font-size-base: 24rpx;
+$uni-font-size-lg: 28rpx;
+$uni-font-size-h1: 56rpx;
+$uni-font-size-h2: 46rpx;
+$uni-font-size-h3: 36rpx;
+$uni-font-size-h4: 32rpx;
+/* 图片尺寸 */
+$uni-img-size-sm: 40rpx;
+$uni-img-size-base: 52rpx;
+$uni-img-size-lg: 80rpx;
+/* Border Radius */
+$uni-border-radius-sm: 4rpx;
+$uni-border-radius-base: 12rpx;
+$uni-border-radius-lg: 16rpx;
+$uni-border-radius-circle: 50%;
+
+/* 垂直间距 */
+$uni-spacing-col-sm: 16rpx;
+$uni-spacing-col-base: 30rpx;
+$uni-spacing-col-lg: 60rpx;
+/* 透明度 */
+$uni-opacity-disabled: 0.3;
